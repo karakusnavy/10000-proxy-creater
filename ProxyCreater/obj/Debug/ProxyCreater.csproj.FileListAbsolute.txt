@@ -1,0 +1,6 @@
+C:\Users\Samet\Desktop\ProxyCreater\ProxyCreater\bin\Debug\ProxyCreater.exe.config
+C:\Users\Samet\Desktop\ProxyCreater\ProxyCreater\bin\Debug\ProxyCreater.exe
+C:\Users\Samet\Desktop\ProxyCreater\ProxyCreater\bin\Debug\ProxyCreater.pdb
+C:\Users\Samet\Desktop\ProxyCreater\ProxyCreater\obj\Debug\ProxyCreater.csprojResolveAssemblyReference.cache
+C:\Users\Samet\Desktop\ProxyCreater\ProxyCreater\obj\Debug\ProxyCreater.exe
+C:\Users\Samet\Desktop\ProxyCreater\ProxyCreater\obj\Debug\ProxyCreater.pdb
